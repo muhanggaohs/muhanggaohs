@@ -1,5 +1,5 @@
 ## 🔧 Current Stacks👋 
-Hi there, I'm Muhammad Angga Oktaharisetia, you can call me ***"Angga"***. I'm a passionate and experienced Software Engineer with over 5 YoE. I have a strong understanding of algorithm flow and can seamlessly integrate multiple systems to create modern and efficient web applications. I thrive under pressure and am always looking for new challenges to push my skills to the next level. My interests in software engineering extend beyond just web development, and I'm also keenly interested in IT infrastructures, IoT, Security & Artificial Intelligence, Web 3.0 and Blockchain. I'm always eager to learn and try new things, and I'm excited about the possibilities that technology can bring to our lives.
+Hi there, I'm Muhammad Angga Oktaharisetia, you can call me ***"Angga"***. I'm a passionate and experienced Software Engineer with over 5 YoE. I have a strong understanding of algorithm flow and can seamlessly integrate multiple systems to create modern and efficient web applications. I thrive under pressure and am always looking for new challenges to push my skills to the next level. My interests in software engineering extend beyond just web development, and I'm also keenly interested in IT infrastructures, IoT, Security & Artificial Intelligence, Web 3.0, and Blockchain. I'm always eager to learn and try new things, and I'm excited about the possibilities that technology can bring to our lives.
 
 ## 🔧 Current Stacks
 
@@ -32,7 +32,8 @@ Hi there, I'm Muhammad Angga Oktaharisetia, you can call me ***"Angga"***. I'm a
 
 ## 🚀 Top Projects
 
-- [CISEA (Corporate Information System And Enterprise Application)](https://www.itworks.id/34213/bukit-asam-hadirkan-aplikasi-cisea-untuk-industri-tambang.html): A comprehensive web-based application developed by PT Bukit Asam Tbk (PTBA) to support various business processes, including mining operations, providing digital data input, real-time reporting, and offline data processing in remote mining areas, leading to increased work efficiency and cost savings.
+- [CISEA (Corporate Information System And Enterprise Application)](https://www.itworks.id/34213/bukit-asam-hadirkan-aplikasi-cisea-untuk-industri-tambang.html):
+<br>A comprehensive web-based application developed by PT Bukit Asam Tbk (PTBA) to support various business processes, including mining operations, providing digital data input, real-time reporting, and offline data processing in remote mining areas, leading to increased work efficiency and cost savings.
 
 ## 🔍 Learning in Progress:
 - Blockchain, Web3, and Solidity.
