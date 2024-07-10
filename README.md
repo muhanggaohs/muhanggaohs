@@ -60,7 +60,6 @@ Hi there, I'm Muhammad Angga Oktaharisetia, you can call me ***"Angga"***. I'm a
 ## 🔍 Learning in Progress:
 - Blockchain, Web3, and Solidity.
 - Data Science and ERP Systems (SAP)
-- Next.JS
 
 ---
 
