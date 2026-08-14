@@ -43,12 +43,6 @@ My work has included:
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
-</p>
-
-## 👾 Contribution Arcade
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
