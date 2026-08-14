@@ -46,6 +46,25 @@ My work has included:
   <img src="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
 </p>
 
+## 👾 Contribution Arcade
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/pacman-contribution-graph.svg"
+    >
+  </picture>
+</p>
+
 ---
 
 <p align="center">
