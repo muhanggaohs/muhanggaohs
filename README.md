@@ -1,65 +1,58 @@
-## 👋 
-Hi there, I'm Muhammad Angga Oktaharisetia, you can call me ***"Angga"***. I'm a passionate and experienced Software Engineer with over 5 YoE. I have a strong understanding of algorithm flow and can seamlessly integrate multiple systems to create modern and efficient web applications. I thrive under pressure and am always looking for new challenges to push my skills to the next level. My interests in software engineering extend beyond just web development, and I'm also keenly interested in IT infrastructures, IoT, Security & Artificial Intelligence, Web 3.0, and Blockchain. I'm always eager to learn and try new things, and I'm excited about the possibilities that technology can bring to our lives.
+# Hi, I'm Angga 👋
 
-## 🔧 Current Stacks
+**Engineering Lead · Enterprise Software Engineer**
 
-<div>
-    <ul>
-        <li>
-            Lang & Frameworks:
-            <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
-            </p>
-        </li>
-        <li>
-            Tools:
-            <p>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40">
-            </p>
-        </li>
-    </ul>
-</div>
+I build scalable backend systems, enterprise platforms, and integrations that connect complex business processes with reliable software.
 
-## 🚀 Top Projects
+Over the past **10+ years**, I've worked across enterprise applications, backend engineering, system integration, cloud infrastructure, and AI-powered business applications — from architecture and system design through production delivery.
 
-- [CISEA (Corporate Information System And Enterprise Application)](https://www.itworks.id/34213/bukit-asam-hadirkan-aplikasi-cisea-untuk-industri-tambang.html):
-<br>A comprehensive web-based application developed by PT Bukit Asam Tbk (PTBA) to support various business processes, including mining operations, providing digital data input, real-time reporting, and offline data processing in remote mining areas, leading to increased work efficiency and cost savings.
+Currently, I'm particularly interested in building systems around **Go, distributed backend architecture, enterprise integration, and AI/LLM orchestration**.
 
-## 🔍 Learning in Progress:
-- Blockchain, Web3, and Solidity.
-- Data Science and ERP Systems (SAP)
+## ⚡ What I Work With
+
+**Languages**
+Go · TypeScript · JavaScript · Python · PHP · ABAP
+
+**Backend & Architecture**
+Node.js · .NET · FastAPI · Spring Boot · gRPC · REST APIs · Event-Driven Systems
+
+**Data & Infrastructure**
+PostgreSQL · Redis · Oracle · BigQuery · GCP · AWS · Azure · Docker · Nginx · Kong
+
+**Enterprise & AI**
+SAP · Enterprise Integration · RAG · LLM Orchestration · AI-powered Applications
+
+## 🚀 What I've Built
+
+My work has included:
+
+* Enterprise platforms supporting **1,500–2,000 users** and integrating SAP, operational systems, IoT, and internal applications.
+* High-performance backend and API architectures using **Go, gRPC, Protocol Buffers, Kong, Redis, BigQuery, and Pub/Sub**.
+* Event-driven monitoring and data validation pipelines for distributed systems.
+* AI-powered enterprise applications using **RAG and LLM orchestration**.
+* Enterprise systems across procurement, inventory, finance, healthcare, mining, government, and education.
+
+## 🧠 Areas I'm Exploring
+
+* Distributed Systems
+* AI Agents & LLM Orchestration
+* Retrieval-Augmented Generation (RAG)
+* Enterprise AI
+* System Design & Architecture
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://muhanggaohs.dev">Website</a> ·
+  <a href="https://www.linkedin.com/in/muhanggaohs">LinkedIn</a> ·
+  <a href="mailto:muhanggaohs@gmail.com">Email</a>
+</p>
 
 ---
 
