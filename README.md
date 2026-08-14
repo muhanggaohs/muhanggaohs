@@ -59,6 +59,15 @@ My work has included:
   </picture>
 </p>
 
+## 🏭 Contribution Factory
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/muhanggaohs/muhanggaohs/output/contribution-factory.svg"
+    alt="Angga's animated GitHub Contribution Factory"
+    width="100%"
+  />
+</p>
 ---
 
 <p align="center">
