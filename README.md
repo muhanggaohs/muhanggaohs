@@ -35,4 +35,4 @@ Outside of day-to-day work, I like exploring distributed systems, AI agents, inf
 
 ---
 
-[Website](https://muhanggaohs.dev) · [LinkedIn](https://www.linkedin.com/in/muhanggaohs)
+[Website](https://muhanggaohs.dev) · [LinkedIn](https://www.linkedin.com/in/muhammadanggaohs)
